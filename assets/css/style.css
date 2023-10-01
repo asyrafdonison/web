@@ -195,7 +195,7 @@ img {
     
     width: 100%;
     width: auto;
-    maxt-height: 500px;
+    maxt-height: 600px;
     overflow: hidden;
     border: 5px solid var(--color-brand2)
 }
