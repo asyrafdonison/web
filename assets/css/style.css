@@ -194,8 +194,8 @@ img {
 .fotoku2{
     
     width: 100%;
-    width: auto;
-    maxt-height: 600px;
+    max-width: auto;
+    height: 600px;
     overflow: hidden;
     border: 5px solid var(--color-brand2)
 }
